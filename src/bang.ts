@@ -22296,7 +22296,7 @@ export const bangs = [
     s: "Danbooru",
     sc: "Images",
     t: "danbooru",
-    u: "https://danbooru.donmai.us/posts?tags={{{s}}}+rating:safe",
+    u: "https://danbooru.donmai.us/posts?tags={{{s}}}",
   },
   {
     c: "Shopping",
@@ -22962,7 +22962,7 @@ export const bangs = [
     s: "Danbooru",
     sc: "Images",
     t: "dbr",
-    u: "https://danbooru.donmai.us/posts?tags={{{s}}}+rating:safe",
+    u: "https://danbooru.donmai.us/posts?tags={{{s}}}",
   },
   {
     c: "Multimedia",
@@ -122061,5 +122061,14 @@ export const bangs = [
     sc: "Online",
     t: "\u10d0\u10e1\u10e2\u10e0\u10dd",
     u: "http://astronet.ge/?s={{{s}}}",
+  },
+  {
+    c: "Multimedia",
+    d: "nhentai.net",
+    r: 0,
+    s: "nhentai",
+    sc: "Manga",
+    t: "nhen",
+    u: "https://nhentai.net/search/?q={{{s}}}",
   },
 ];
