@@ -122071,4 +122071,13 @@ export const bangs = [
     t: "nhen",
     u: "https://nhentai.net/search/?q={{{s}}}",
   },
+  {
+    c: "Multimedia",
+    d: "nyaa.si",
+    r: 0,
+    s: "nyaa.si",
+    sc: "Download",
+    t: "nyaa",
+    u: "https://nyaa.si/?f=0&c=0_0&q={{{s}}}",
+  },
 ];
