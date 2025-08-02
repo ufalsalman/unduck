@@ -122080,4 +122080,22 @@ export const bangs = [
     t: "nyaa",
     u: "https://nyaa.si/?f=0&c=0_0&q={{{s}}}",
   },
+  {
+    c: "Multimedia",
+    d: "thepiratebay.org",
+    r: 0,
+    s: "The Pirate Bay",
+    sc: "Download",
+    t: "tpb",
+    u: "https://thepiratebay.org/search.php?q={{{s}}}",
+  },
+  {
+    c: "Multimedia",
+    d: "thepiratebay.org",
+    r: 0,
+    s: "The Pirate Bay",
+    sc: "Download",
+    t: "thepiratebay",
+    u: "https://thepiratebay.org/search.php?q={{{s}}}",
+  },
 ];
