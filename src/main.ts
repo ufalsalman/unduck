@@ -7,7 +7,7 @@ function noSearchDefaultPageRender() {
     <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
       <div class="content-container">
         <h1>DuckUfal</h1>
-        <p>Intinya ini fork dari <a href="https://unduck.link" target="_blank">Und*ck punyanya Theo.</a></p>
+        <p>Intinya, ini adalah <i>fork</i> dari <a href="https://unduck.link" target="_blank">Und*ck punyanya Theo, dengan tambahan bang lainnya.</a></p>
         <div class="url-container"> 
           <input 
             type="text" 
