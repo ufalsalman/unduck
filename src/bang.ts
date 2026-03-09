@@ -122078,7 +122078,7 @@ export const bangs = [
     r: 0,
     s: "nhentai Direct Code",
     sc: "Manga",
-    t: "nhen",
+    t: "nheng",
     u: "https://nhentai.net/g/{{{s}}}",
   },
   {
