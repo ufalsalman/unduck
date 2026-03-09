@@ -122071,6 +122071,16 @@ export const bangs = [
     t: "nhen",
     u: "https://nhentai.net/search/?q={{{s}}}",
   },
+
+  {
+    c: "Multimedia",
+    d: "nhentai.net",
+    r: 0,
+    s: "nhentai Direct Code",
+    sc: "Manga",
+    t: "nhen",
+    u: "https://nhentai.net/g/{{{s}}}",
+  },
   {
     c: "Multimedia",
     d: "nyaa.si",
