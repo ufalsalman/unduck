@@ -122144,4 +122144,22 @@ export const bangs = [
     t: "ufal",
     u: "https://ufal.my.id/?s={{{s}}}",
   },
+  {
+    c: "Entertainment",
+    d: "arknights.wiki.gg",
+    r: 0,
+    s: "Arknights Terra Wiki",
+    sc: "Games (Arknights)",
+    t: "terrawiki",
+    u: "https://arknights.wiki.gg/wiki/Special:Search?search={{{s}}}",
+  },
+  {
+    c: "Entertainment",
+    d: "endfield.wiki.gg",
+    r: 0,
+    s: "Endfield Talos Wiki",
+    sc: "Games (Arknights: Endfield)",
+    t: "taloswiki",
+    u: "https://endfield.wiki.gg/wiki/Special:Search?search={{{s}}}",
+  },
 ];
