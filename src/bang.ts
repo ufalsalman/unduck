@@ -122101,6 +122101,15 @@ export const bangs = [
   },
   {
     c: "Multimedia",
+    d: "sukebei.nyaa.si",
+    r: 0,
+    s: "sukebei.nyaa.si",
+    sc: "Download",
+    t: "sukebeinyaa",
+    u: "https://sukebei.nyaa.si/?f=0&c=0_0&q={{{s}}}",
+  },
+  {
+    c: "Multimedia",
     d: "thepiratebay.org",
     r: 0,
     s: "The Pirate Bay",
