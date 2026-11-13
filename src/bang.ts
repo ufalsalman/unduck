@@ -122198,4 +122198,13 @@ export const bangs = [
     t: "browserpub",
     u: "https://browser.pub/{{{s}}}",
   },
+  {
+    c: "Online Services",
+    d: "cari.ufal.my.id",
+    r: 0,
+    s: "SearXNG",
+    sc: "Search Engine",
+    t: "searxng-ufal",
+    u: "https://cari.ufal.my.id/search?q={{{s}}}",
+  },
 ];
