@@ -44,7 +44,7 @@ function noSearchDefaultPageRender() {
   });
 }
 
-const LS_DEFAULT_BANG = localStorage.getItem("default-bang") ?? "searxng-ufal";
+const LS_DEFAULT_BANG = localStorage.getItem("default-bang") ?? "duckduckgo";
 const defaultBang = bangs.find((b) => b.t === LS_DEFAULT_BANG);
 
 function getBangredirectUrl() {
